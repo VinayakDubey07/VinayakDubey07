@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [vinayakportfolio.tk](vinayakportfolio.tk)
 
-- 💬 Ask me about **react, frontend developement**
+- 💬 Ask me about **React, Frontend developement or Anyting!!**
 
 - 📫 How to reach me **vinayakdubey0108@gmail.com**
 
