@@ -1,4 +1,4 @@
-![logo](https://github.com/VinayakDubey07/VinayakDubey07/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/VinayakDubey07/VinayakDubey07/blob/main/Hello%2C%20my%20name%20is%20Vinayak..png)
 <h1 align="center">Hi 👋, I'm Vinayak</h1>
 <h3 align="center">Software developer who is trying to develop!</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
