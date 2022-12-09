@@ -1,6 +1,6 @@
 ![logo](https://github.com/VinayakDubey07/VinayakDubey07/blob/main/Hello%2C%20my%20name%20is%20Vinayak..png)
-<h1 align="center">Hi 👋, I'm Vinayak</h1>
-<h3 align="center">Software developer who is trying to develop!</h3>
+<h1 align="center">👋</h1>
+<h3 align="center">Commenting bad code</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakdubey07&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakdubey07" /> </p>
 
