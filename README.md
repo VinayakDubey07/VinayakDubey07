@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakdubey07&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakdubey07" /> </p>
 
-- 🔭 I’m currently working at **Exquisite.**
+- 🔭 I’m currently working at **Nowhere**
 
-- 🌱 I’m currently learning **OCaml: Complex data hierarchy juggler.**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **more projects as well.**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Frontend developement or Anyting!!**
 
-- 📫 How to reach me **vinayakdubey0108@gmail.com**
+- 📫 How to reach me **vinayak.dbdb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
