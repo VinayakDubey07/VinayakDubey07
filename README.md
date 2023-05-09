@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **more projects as well.**
 
-- 👨‍💻 All of my projects are available at [vinayakportfolio.tk](vinayakportfolio.tk)
-
 - 💬 Ask me about **React, Frontend developement or Anyting!!**
 
 - 📫 How to reach me **vinayak.dbdb@gmail.com**
