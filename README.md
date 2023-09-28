@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Frontend developement or Anyting!!**
 
-- 📫 How to reach me **vinayak.dbdb@gmail.com**
+- 📫 How to reach me **contact@vinayak.cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
